@@ -1,0 +1,14 @@
+layout_spectrum: 0.48246957804076374
+typography_spectrum: 0.9491449424531311
+color:
+  brandStrength: 0.17120541888289154
+  lightness: 0.062281864462420344
+  saturation: 0.7953674702439457
+  rhythmicContrast: 0.43690071743912995
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: greenmajority
