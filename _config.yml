@@ -11,4 +11,8 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-name: greenmajority
+name: greenmajority.ca
+navigation:
+  - name: Portraits of Dogs as They Shake Off Water
+    id: a8fb462b-174d-4778-b780-d9fa3b14f1d0
+    type: content
